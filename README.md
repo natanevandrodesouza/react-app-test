@@ -21,4 +21,4 @@ Open your bash and run this command:
 
 Now, just open this URL in your browser:
 
-`open http://localhost:3000/`
+`http://localhost:3000/`
